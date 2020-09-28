@@ -1,0 +1,7 @@
+## ignore this file ##
+.idea
+*.log
+*.json
+*.db
+*.pid
+__pycache__/
